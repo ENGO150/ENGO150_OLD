@@ -1,18 +1,1 @@
-### Hi there 👋, I am ENGO
-#### I am Java / Python dev.
-I am just some random dev. Feel free to message me on discord.
-
-Skills: Java, Python, C#, C++, HTML, JS
-
-- 🔭 I’m currently working on ClearTemp project 
-- 🌱 I’m currently learning Python 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ENGO150)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/vaclav.smejkal.184)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENGO150)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ENGO150&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ENGO150)  
-
+![Metrics](https://metrics.lecoq.io/ENGO150?template=classic&languages=1&introduction=1&licenses=1&lines=1&traffic=1&projects=1&activity=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&licenses.ratio=false&licenses.legal=true&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Europe%2FPrague)
